@@ -1,0 +1,6 @@
+{
+  "name": "SRD Guide - R370 Status Helper (Unofficial)",
+  "description": "100% Play Store and AdMob compliant unofficial guide and helper for South African SRD R370 grant status checks with zero impersonation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
